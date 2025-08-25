@@ -1,6 +1,6 @@
 ## Nechama Shapira
 ## 🌟 About Me
-Profile
+
 Multitasker - manages several tasks simultaneously, operates from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, studies tasks in depth and resolves conflicts creatively, has excellent interpersonal skills.
 <!--
 **NEitan622/NEitan622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
