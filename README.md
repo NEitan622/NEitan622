@@ -4,7 +4,6 @@
 I'm a **Software Developer**, multitasking - managing multiple tasks at the same time, operating from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, deeply studies tasks and resolves conflicts creatively, with excellent interpersonal skills
 ## 📁 Featured Projects
 • [Pandora-Jewelry-Store](https://github.com/NEitan622/Pandora-Jewelry-Store) – E2E project in SQL, C#, Angular  
-
 **Server side**: 3-layer architecture, dependency injection, calculated fields  
 
 **Client side**: FormModules, dynamic forms, Git version control  
