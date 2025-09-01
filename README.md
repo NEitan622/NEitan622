@@ -3,11 +3,12 @@
 
 I'm a Software Developer, multitasking - managing multiple tasks at the same time, operating from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, deeply studies tasks and resolves conflicts creatively, with excellent interpersonal skills
 ## 📁 Featured Projects
-• Fruit-Vegetables-store – E2E project in SQL, C#, Angular
+• 
+[Pandora-Jewelry-Store](https://example.com) – E2E project in SQL, C#, Angular
 Server side: 3-layer architecture, dependency injection, calculated fields
 Client side: FormModules, dynamic forms, Git version control
 
-• Apartment-marketing-website – E2E in Node.js, React.js, MongoDB
+• Vacation-apartment-rental-website – E2E in Node.js, React.js, MongoDB
 Server side: Relationships between models, token encryption
 Client side: Generic components, middleware usage
 
