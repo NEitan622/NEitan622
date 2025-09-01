@@ -7,7 +7,7 @@ I'm a Software Developer, multitasking - managing multiple tasks at the same tim
 Server side: 3-layer architecture, dependency injection, calculated fields
 Client side: FormModules, dynamic forms, Git version control
 
-•[Vacation-apartment-rental-website ]([https://github.com/NEitan622/Vacation-apartment-rental-website)) – E2E in Node.js, React.js, MongoDB
+•[Vacation-apartment-rental-website ](https://github.com/NEitan622/Vacation-apartment-rental-website) – E2E in Node.js, React.js, MongoDB
 Server side: Relationships between models, token encryption
 Client side: Generic components, middleware usage
 
