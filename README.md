@@ -1,8 +1,17 @@
 ## Nechama Shapira
 ## 🌟 About Me
 
-Multitasker - manages several tasks simultaneously, operates from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, studies tasks in depth and resolves conflicts creatively, has excellent interpersonal skills.
+I'm a Software Developer, multitasking - managing multiple tasks at the same time, operating from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, deeply studies tasks and resolves conflicts creatively, with excellent interpersonal skills
 ## 📁 Featured Projects
+• Fruit-Vegetables-store – E2E project in SQL, C#, Angular
+Server side: 3-layer architecture, dependency injection, calculated fields
+Client side: FormModules, dynamic forms, Git version control
+
+• Apartment-marketing-website – E2E in Node.js, React.js, MongoDB
+Server side: Relationships between models, token encryption
+Client side: Generic components, middleware usage
+
+
 ## 🛠️ Languages and Tools
 ![C](https://camo.githubusercontent.com/d35a1629940de977c889a8710227ca41e3068e9b4318f59994c9fa92fa37fd0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67)
 ![C++](https://camo.githubusercontent.com/8ade2e47872ba45fd667c66f814d288f24ecf11e9538ced13ddb22f26e9d2a40/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67)
